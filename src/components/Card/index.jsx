@@ -18,7 +18,7 @@ function CardSection() {
               </li>
               <li>
                 <b>Repo:</b>
-                <a href="https://github.com/KIVERSEN86/js-fw-ca.gitt"> Github Repo</a>
+                <a href="https://github.com/KIVERSEN86/js-fw-ca.git"> Github Repo</a>
               </li>
               <li>
                 <b>Live site:</b>
