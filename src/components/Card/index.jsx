@@ -30,7 +30,7 @@ function CardSection() {
         </S.CardContainer>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="assets/SEM-PROJ-2-HOME.png"></S.CardImg>
+            <S.CardImg src="src/assets/SEM-PROJ-2-HOME.png"></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
