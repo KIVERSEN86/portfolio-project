@@ -8,7 +8,7 @@ function CardSection() {
       <S.CardSection>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="public/assets/JS-FW-2-Home.png"></S.CardImg>
+            <S.CardImg src="assets/JS-FW-2-Home.png"></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
@@ -30,7 +30,7 @@ function CardSection() {
         </S.CardContainer>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="public/assets/SEM-PROJ-2-HOME.png"></S.CardImg>
+            <S.CardImg src="assets/SEM-PROJ-2-HOME.png"></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
@@ -52,7 +52,7 @@ function CardSection() {
         </S.CardContainer>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="public/assets/PROJECT-EXAM-2.png"></S.CardImg>
+            <S.CardImg src="assets/PROJECT-EXAM-2.png"></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
