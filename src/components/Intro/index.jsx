@@ -22,7 +22,7 @@ export default function IntroSection() {
         </ButtonContainer>
       </S.TextContainer>
       <S.ImgContainer>
-        <S.IntroImg src="assets/IMG_Kristoffer-Iversen.jpg" />
+        <S.IntroImg src="src/assets/IMG_Kristoffer-Iversen.jpg" />
       </S.ImgContainer>
     </S.IntroContainer>
   );
