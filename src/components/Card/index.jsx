@@ -1,5 +1,8 @@
 import * as S from "../Card/Card.styles";
 import { CardHeading } from "../Card/Card.styles";
+import JSFW2 from "../../assets/JS-FW-2-Home.png";
+import SemProject from "../../assets/SEM-PROJ-2-HOME.png";
+import ProjectExam from "../../assets/PROJECT-EXAM-2.png";
 
 function CardSection() {
   return (
@@ -8,7 +11,7 @@ function CardSection() {
       <S.CardSection>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="src/assets/JS-FW-2-Home.png"></S.CardImg>
+            <S.CardImg src={JSFW2}></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
@@ -30,7 +33,7 @@ function CardSection() {
         </S.CardContainer>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="src/assets/SEM-PROJ-2-HOME.png"></S.CardImg>
+            <S.CardImg src={SemProject}></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>
@@ -52,7 +55,7 @@ function CardSection() {
         </S.CardContainer>
         <S.CardContainer>
           <S.ImgContainer>
-            <S.CardImg src="src/assets/PROJECT-EXAM-2.png"></S.CardImg>
+            <S.CardImg src={ProjectExam}></S.CardImg>
           </S.ImgContainer>
           <S.CardInfo>
             <ul>

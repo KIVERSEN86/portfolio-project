@@ -1,6 +1,7 @@
 import * as S from "./Intro.styles";
 import { Button, ButtonContainer } from "../../pages/Home/Home.styles";
 import { Hr } from "../Layout/Layout.styles";
+import kristofferImage from "../../assets/IMG_Kristoffer-Iversen.jpg";
 
 export default function IntroSection() {
   return (
@@ -22,7 +23,7 @@ export default function IntroSection() {
         </ButtonContainer>
       </S.TextContainer>
       <S.ImgContainer>
-        <S.IntroImg src="src/assets/IMG_Kristoffer-Iversen.jpg" />
+        <S.IntroImg src={kristofferImage} alt="Kristoffer Iversen" />
       </S.ImgContainer>
     </S.IntroContainer>
   );
